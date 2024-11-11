@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
