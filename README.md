@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0907-koko-eating-bananas](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
+| [1635-number-of-good-pairs](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0424-longest-repeating-character-replacement](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/1023-time-based-key-value-store) |
+| [1635-number-of-good-pairs](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -79,4 +81,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
