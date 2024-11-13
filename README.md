@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
