@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [1635-number-of-good-pairs](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -98,5 +99,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
