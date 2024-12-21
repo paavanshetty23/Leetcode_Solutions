@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
