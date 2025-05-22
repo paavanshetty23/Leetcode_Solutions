@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0493-reverse-pairs](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0907-koko-eating-bananas](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [1635-number-of-good-pairs](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0493-reverse-pairs](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0907-koko-eating-bananas](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/1023-time-based-key-value-store) |
 ## Divide and Conquer
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0004-median-of-two-sorted-arrays](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0190-reverse-bits) |
+| [0493-reverse-pairs](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,4 +111,20 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0029-divide-two-integers](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0190-reverse-bits) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
