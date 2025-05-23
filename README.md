@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0039-combination-sum](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
