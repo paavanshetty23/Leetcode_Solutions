@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0239-sliding-window-maximum](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0493-reverse-pairs](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0907-koko-eating-bananas](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0493-reverse-pairs](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0907-koko-eating-bananas](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/1023-time-based-key-value-store) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
 |  |
