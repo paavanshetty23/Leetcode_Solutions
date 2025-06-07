@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0001-two-sum](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0090-subsets-ii](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 ## Queue
@@ -150,5 +153,10 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/paavanshetty23/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
