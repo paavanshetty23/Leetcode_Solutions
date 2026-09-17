@@ -1,18 +1,16 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-      if len(s)!=len(t):
-        return False
+        if len(s) != len(t):
+            return False
 
-      maps = {}
-      mapt={}
+        hms, hmt = {}, {}
+        
+        for i in range(len(s)):
+            hms[s[i]] = 1 + hms.get(s[i], 0)
+            hmt[t[i]] = 1 + hmt.get(t[i], 0)
 
-      for i in s:
-        maps[i]=maps.get(i,0)+1
+        for c in hms:
+            if hms[c] != hmt.get(c, 0):
+                return False
 
-      
-      for i in t:
-        mapt[i]=mapt.get(i,0)+1
-
-     
-      return maps==mapt
-
+        return True
