@@ -1,18 +1,13 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
 
-        maps = {}
+        hm = {}
 
+        for i, n in enumerate(nums):
+            diff = target - n
+            if diff in hm:
+                return [hm[diff],i]
+            hm[n]=i
 
-        for key,val in enumerate(nums):
-             comp = target - val
-             if comp in maps:
-                return [maps[comp],key]
-             maps[val]=key
-
-        return []
-            
-            
-
-            
+        return
         
